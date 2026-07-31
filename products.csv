@@ -1,0 +1,11 @@
+Product_ID,Name,Category,Price,Stock
+1,Rice (1kg),Grains,250,50
+2,Sugar (1kg),Grains,180,40
+3,Milk (1L),Dairy,220,30
+4,Eggs (dozen),Dairy,320,25
+5,Cooking Oil (1L),Oil,550,20
+6,Bread,Bakery,150,15
+7,Apples (1kg),Fruits,300,35
+8,Bananas (dozen),Fruits,160,45
+9,Chicken (1kg),Meat,650,18
+10,Detergent (1kg),Household,400,22
